@@ -1,6 +1,8 @@
 install mysql
 install mongodb
+<<<<<<< HEAD
 vikas -did few changes
-#abi- did the change
+abi- did the change
+=======
 abi sonam vika 
-
+>>>>>>> 2.0
