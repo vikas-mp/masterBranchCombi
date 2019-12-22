@@ -1,8 +1,15 @@
 install mysql
 install mongodb
+update mysql
+update mongodb
+install docker
+update docker
+hi world
 <<<<<<< HEAD
-vikas -did few changes
-abi- did the change
+how are you doin
+hope everything is going fine
+install kubectl
+update kubectl
 =======
-abi sonam vika 
->>>>>>> 2.0
+
+>>>>>>> 2.1
