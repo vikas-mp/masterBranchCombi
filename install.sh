@@ -1,4 +1,5 @@
 #!/bin/bash
 
 yum install python -y && yum install httpd
-update 
+update
+branch 2.0 edited this line
