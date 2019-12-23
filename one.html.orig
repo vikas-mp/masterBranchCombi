@@ -4,12 +4,19 @@ update mysql
 update mongodb
 install docker
 update docker
-hi world
-<<<<<<< HEAD
-how are you doin
-hope everything is going fine
 install kubectl
+<<<<<<< HEAD
 update kubectl
-=======
+install ansible
+update ansible
+hi guys 
+need to create a merge confict
+install jenkins
+update jenkins
+install kafka
+update kafka
 
->>>>>>> 2.1
+=======
+update kubect
+logstash
+>>>>>>> vikki
