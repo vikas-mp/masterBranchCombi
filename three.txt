@@ -2,3 +2,4 @@ udate
 i want to add a git repo
 did few changes
 and some more changes
+for reset
