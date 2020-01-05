@@ -5,8 +5,8 @@ update mongodb
 install docker
 update docker
 install kubectl
-<<<<<<< HEAD
 update kubectl
+<<<<<<< HEAD
 install ansible
 update ansible
 hi guys 
@@ -15,8 +15,13 @@ install jenkins
 update jenkins
 install kafka
 update kafka
-
-=======
 update kubect
 logstash
+<<<<<<< HEAD
+=======
+hellowrold
+>>>>>>> vijji
+
+=======
+hi everyone`
 >>>>>>> vikki
