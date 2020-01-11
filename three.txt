@@ -3,3 +3,4 @@ i want to add a git repo
 did few changes
 and some more changes
 stash2
+stash3
