@@ -1,0 +1,10 @@
+udate
+i want to add a git repo
+did few changes
+and some more changes
+<<<<<<< HEAD
+stash2
+=======
+for reset
+reset 2
+>>>>>>> 77cbe284fce4caacfc15dcffff36a5e14c0de4ca
