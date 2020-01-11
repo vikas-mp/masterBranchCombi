@@ -1,4 +1,2 @@
 udate
 i want to add a git repo
-i want to keep this changes
-i dont want this`
